@@ -1,2 +1,1 @@
-# ReactTodoList
-This is a React based TodoList using Hooks
+# React based TodoList Using Hooks
